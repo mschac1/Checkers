@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers", "Checkers.csproj", "{439C4176-69B9-4863-BF31-7668059579DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{439C4176-69B9-4863-BF31-7668059579DE}.Debug.ActiveCfg = Debug|.NET
+		{439C4176-69B9-4863-BF31-7668059579DE}.Debug.Build.0 = Debug|.NET
+		{439C4176-69B9-4863-BF31-7668059579DE}.Release.ActiveCfg = Release|.NET
+		{439C4176-69B9-4863-BF31-7668059579DE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\obj\Debug\Checkers.exe
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\obj\Debug\Checkers.pdb
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\bin\Debug\Checkers.exe
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\obj\Debug\VCheckers.Form1.resources
+C:\Users\Menachem\Documents\Personal\Projects\c#\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
